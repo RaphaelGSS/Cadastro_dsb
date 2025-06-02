@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1748801207 source:c:\users\windows 10\documents\faculdade\ cadastro_dsb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<libpq-fe.h>
+
+1748818869 source:c:\users\windows 10\documents\faculdade\cadastro_dsb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

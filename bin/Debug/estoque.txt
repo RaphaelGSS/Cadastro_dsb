@@ -1,0 +1,24 @@
+Carne,11840
+Cebola em cubos,200
+Picles em rodelas,210
+Pao brioche,70
+Pao australiano,30
+Queijo cheddar,48
+Queijo mussarela,50
+Onion rings,500
+Batata frita,4000
+Alface americana,440
+Tomate,1000
+Bacon em fatias,100
+Bacon em cubos,1000
+Maionese,1000
+Maionese verde,1000
+Ketchup,2850
+Mostarda,850
+Burger de grao-de-bico,50
+Coca-Cola 600 ml,300
+Sprite lata,100
+Schweppes lata,90
+Suco de laranja,90
+Suco de uva,50
+Cerveja,300
